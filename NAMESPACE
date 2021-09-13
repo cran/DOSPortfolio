@@ -1,0 +1,9 @@
+
+
+export(DOSPortfolio)
+export(r0Strategy)
+export(wGMV)
+export(wGMVNonOverlapping)
+export(wGMVOverlapping)
+importFrom(Rdpack,reprompt)
+importFrom(stats, var)
